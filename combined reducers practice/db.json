@@ -1,0 +1,13 @@
+{
+    "accounts" : [
+        {"id" : 1, "name" : "MAyuk Mukherjee","amount" : 2500, "basic" : 75000, "HRA" : 8500, "TA" : 9500, "PF" : 4500, "IT" : 3500 },
+        {"id" : 2, "name" : "Suryendu Sarkar","amount" : 3600, "basic" : 45000, "HRA" : 4500, "TA" : 5500, "PF" : 7500, "IT" : 6500  },
+        {"id" : 3, "name": "Aninda Mukherjee","amount" : 4500, "basic" : 88000, "HRA" : 3200, "TA" : 1700, "PF" : 4800, "IT" : 3900 }
+    ],
+    "bonus" : [
+        {"id" : 1, "points" : 2},
+        {"id" : 2, "points" : 3},
+        {"id" : 3, "points" : 4}
+    ]
+
+}
